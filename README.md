@@ -8,6 +8,7 @@
 * [Contributing to the package](#contributing-to-the-package)
 * [Found a bug?](#found-a-bug)
 * [The mojverse](#mojverse)
+* [mojRpackages](#mojRpackages)
 * [Other RAP Resources](#other-resources)
 
 ## What is this repo for?
