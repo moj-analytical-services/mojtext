@@ -1,0 +1,19 @@
+Package: mojtext
+Title: Convenience functions for automating elements of text
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marco", "Surace", , "marco.surace@justice.gov.uk", role = c("aut", "cre"))
+Description: Provides helpful functions to automate parts of sentences when writing text, 
+  say for quarterly bulletins when commenting on trends in the latest statistics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    dplyr,
+    formattable,
+    lubridate,
+    rlang
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
