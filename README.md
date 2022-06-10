@@ -20,7 +20,7 @@ This package is a collection of generic convenience functions for automating ele
 To download, install, and then load the package, run the following:
 
 ```
-devtools::install_github("moj-analytical-services/mojtext")
+remotes::install_github("moj-analytical-services/mojtext")
 library(mojtext)
 ```
 
