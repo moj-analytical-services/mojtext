@@ -99,9 +99,11 @@ This package is intended to sit within a tidyverse-style ecosystem of packages k
 
 Please install the `mojverse` package, to install all the packages listed above.
 
-## Other resources
+## mojRpackages
 
 To find other useful packages, please see a list of all R packages developed within MoJ contained in the [mojRpackages](https://github.com/moj-analytical-services/mojRpackages) repo.
+
+## Other resources
 
 Slack/MS Teams channels:
 * If you are working within government and are looking to get up to speed with RAP, we would recommend joining the #rap_collaboration channel of the [Government Data Science Slack](https://govdatascience.slack.com/?redir=%2Fhome) and getting involved with the community there. 
