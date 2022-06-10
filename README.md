@@ -12,7 +12,7 @@
 
 ## What is this repo for?
 
-This package is a collection of generic convenience functions for automating elements of writing text, for example formatting numbers as comma separated strings, describing changes in quantities, or returning the year and quarter from a given date. It can be useful, for example when writing commentary on the trends observed with some data that is published in a regular report. If parts of the commentary are consistent between publications, e.g. describing changes for various values, then functions in this package can help to automate those sentences when the latest data is imported, without having to manually update those sentences each time. 
+This package is a collection of generic convenience functions for automating elements of writing text, for example formatting numbers as comma separated strings, describing changes in quantities, or returning the year and quarter from a given date. It can be useful, for example when writing commentary on the trends observed with some data that is published in a regular report. If parts of the commentary are consistent between publications, e.g. describing changes for various quantities, then functions in this package can help to automate those sentences when the latest data is imported, without having to manually update those sentences each time. 
 
 ## Using the package
 
